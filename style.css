@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    font-family: poppins;
+    margin: 12;
+    padding-right: 90px
+  }
+
+  ul{
+      color: #424242;
+      font-weight: 650;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    color: black;
+    text-align: center;
+    padding: 32px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: #1EA39A;
+  }
+
+  .active {
+    color: #424242;
+  }
+
+  p {
+      padding-top: 100px;
+      padding-right: 90px;
+  }
+
+  h1{
+      font-family: poppins;
+      padding-left: 80px;
+  }
+
+  img.main {
+      float: right;
+      margin: 10px;
+  }
+
+  .text1 {
+      text-align: left;
+      padding: 50px;
+  }
